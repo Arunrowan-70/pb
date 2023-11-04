@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0",
+    "gapi-script": "^1.2.0"
+  }
+}
