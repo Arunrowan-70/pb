@@ -8,7 +8,7 @@ This project introduces an innovative React Photoblog Application, a dynamic pla
 https://www.kaggle.com/arunrowan/real-or-ai-image-classifier-using-cnn
 The link where I built my CNN Model for Classifier
 
-<img width="372" alt="image" src="https://github.com/Arunrowan-70/pb/assets/85307660/d0d2c713-9ecc-48ac-8ca0-d6970ef3cf7a"> 
+<img width="327" alt="image" src="https://github.com/Arunrowan-70/pb/assets/85307660/16b355da-f9fb-4838-a811-70e27c5c0a8f">
 
 An AI Image Generated with DALLE is passed to my H5 Model(CNN) and Classified to 'AI Image'
 
